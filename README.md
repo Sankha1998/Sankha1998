@@ -27,4 +27,4 @@
 
 👯 I’ve recently worked with start-up companies like - *mywbut.com as Campus Representative*
 
-😄 Words that describe me - *Self-motivated, Focused, Hardworking & Perfectionist.*
+😄 Words that describe me - *Pro-Active, Self-motivated, Focused, Hardworking & Perfectionist.*
