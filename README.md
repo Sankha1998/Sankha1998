@@ -1,6 +1,6 @@
 ### Hi there, it's Sankha 👋 (Sankha Subhra Mondal)
 
-<h4>Machine Learning Enthusiast | Front-end Web Developer | Python Developer .</h4>
+<h4>Machine Learning Enthusiast | Front-end Web Developer |SQL, PLSQL Developer | Python Developer .</h4>
 <h4>To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.</h4>
 
 
